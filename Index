@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="C:\programms\BattleClassmates\Styles\IndexStyle.css">
+<title>BattleClassmates</title>
+<meta charset="Unicode">
+
+<head>
+<body>
+<div id="MainText"><div id="MainLogo">BattleClassmates</div></div>
+<div align="center" id="MainBetaText">Мы рады что вы пришли протестировать Beta-версию нашей игры <i>"BattleClassmates"</i> ! Если у вас есть претензии к авторскому праву - напишите <a id="BetaVK" href="https://vk.com/id165835988">нам</a>. Приятной игры!</div><
+<button oncLick="jopa()" type="" name="BetaButton" id="BetaButton" value="1"><b> Играть </b></button>
+<script type="text/javascript">
+
+function jopa()
+{
+   document.write("Жопа");
+}
+</script>
+<div id="MainBottom"> </div>
+</body>
+</html>
